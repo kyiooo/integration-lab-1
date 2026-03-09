@@ -1,5 +1,5 @@
 # Laboratorium 1 - Git, GitHub i przygotowanie środowiska Django
-## Czas trwania - 6h
+## Czas trwania - 6h - |||praca indywidualna|||
 
 ---
 ### Opis projektu 
