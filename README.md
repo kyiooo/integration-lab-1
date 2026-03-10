@@ -1,20 +1,33 @@
-# Laboratorium 1 - Git, GitHub i przygotowanie środowiska Django
-## Czas trwania - 6h - praca samodzielna
+# Laboratorium - Integracja systemów informatycznych
+
+[Małgorzata Andrzejewska]
+[235IC A2]
 
 ---
 ### Opis projektu 
 
-Niniejsze repozytorium zostało przygotowane w ramach Laboratorium 1, którego celem jest demonstracja biegłości w obsłudze systemu kontroli wersji **Git**, platformy **GitHub** oraz poprawnej konfiguracji środowiska deweloperskiego dla frameworka **Django**. Szczególny nacisk położono na poprawne dokumentowanie pracy przy użyciu **Markdown** oraz konfigurację bezpiecznego dostępu przez SSH.
+Niniejsze repozytorium służy do dokumentowania postępów i realizacji zadań w ramach przedmiotu Integracja Systemów Informatycznych. Projekt skupia się na budowie **nowoczesnych aplikacji internetowych** z wykorzystaniem frameworka *Django* oraz wdrażaniu profesjonalnych standardów pracy z kodem.
 
 Projekt skupia się na implementacji standardów Feature _Branch Workflow_ oraz automatyzacji testów składniowych przy użyciu _GitHub_.
 
-Projekt zawiera dwie wymagane gałęzie typu feature.
+---
+### Kluczowe zagadnienia realizowane w projekcie:
+
+* Version Control: Zaawansowana obsługa systemu Git i platformy GitHub.
+
+* Workflow: Praca w modelu Feature Branch Workflow.
+
+* DevOps: Automatyzacja procesów (GitHub Actions) oraz bezpieczna konfiguracja (SSH).
+
+* Backend: Architektura MVT, ORM oraz integracja z zewnętrznymi usługami.
 
 ---
 ### Wymagania projektowe:
-* Zainstalowany interpreter Python 3.x
-* Utworzone środowisko wirtualne `venv`
-* Poprawnie skonfigurowany edytor VS Code
+1. Zainstalowany interpreter Python 3.x
+2. Utworzone środowisko wirtualne `venv`
+3. Poprawnie skonfigurowany edytor VS Code
+4. Framework Django
+
 ---
 ### Przydatne komendy
 Aby uruchomić serwer deweloperski w przyszłości, użyjemy komendy: `python manage.py runserver`
@@ -22,8 +35,8 @@ Aby uruchomić serwer deweloperski w przyszłości, użyjemy komendy: `python ma
 ---
 ### Dokumentacja
 Więcej informacji o frameworku znajdziesz tutaj: \
-[Oficjalna dokumentacja Django](https://docs.djangoproject.com/en/stable/)
-[Dokumentacja modułu venv](https://docs.python.org/3/library/venv.html)
+[Oficjalna dokumentacja Django](https://docs.djangoproject.com/en/stable/)\
+[Dokumentacja modułu venv](https://docs.python.org/3/library/venv.html)\
 [Tutorial Markdown na GitHubie](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ---
